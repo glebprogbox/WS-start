@@ -1,0 +1,29 @@
+{
+  "name": "ws-start",
+  "version": "1.0.0",
+  "description": "reat api example",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glebprogbox/WS-start.git"
+  },
+  "keywords": [
+    "js",
+    "example"
+  ],
+  "author": "glebprogbox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glebprogbox/WS-start/issues"
+  },
+  "homepage": "https://github.com/glebprogbox/WS-start#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
